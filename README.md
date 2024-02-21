@@ -19,3 +19,9 @@ CSS: Used to style the game interface and make it visually appealing.
 
 # How to Play
 You can play the "Guess a Number" game by downloading or cloning the repository and opening the index.html file in your web browser. Alternatively, you can play the game online by visiting the GitHub Pages site for this project.
+
+# Screenshots
+
+![Game Screenshot](Guess-my%20-Number%20-%20Win%20.png)
+![Game Screenshot](Guess-my-Number.png)
+
